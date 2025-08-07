@@ -32,11 +32,3 @@ This project is a **basic keylogger** implemented in Python using the `pynput` l
 | Python   | Main programming language     |
 | pynput   | Capturing keyboard events     |
 
----
-
-## ✅ Requirements
-
-Install the required Python library:
-
-```bash
-pip install pynput
